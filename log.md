@@ -1,5 +1,5 @@
 ![alt text](https://treehouse-marketing.s3.amazonaws.com/open-graph-social/100daysofcode_OG_banner-06-06.png)
-# 100 Days Of Code - Log
+# 100 Days Of Code - Data Analysis with Python Course Log
 
 ### Day 1, for the tenth time: 13 Novem 2020 (GitHub)
 **Today's Progress:** I've learned a bit more about showing my progresses on GitHub. I've also completed the ReadMe file. 

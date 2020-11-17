@@ -7,5 +7,5 @@
 ### Day 2, for the tenth time: 17 Novem 2020 (Reading external data & Plotting) Tot hours: 40 minutes
 I've taken time off because on the weekend I've done the ActInSpace hackathon 2020. **TAKE CARE OF YOUR MIND**, I needed a break and rest
 **Today's Progress:** Sarted to work on exercise 5 = Pandas - Reading CSV and Basic Plotting. 
- I tried to use **Virtual Studio Code** but really failed. 
- Created an excel file to put the new commands I learn. It will be use my **Coding Encyclopedia** 
+  I tried to use **Virtual Studio Code** but really failed. 
+  Created an excel file to put the new commands I learn. It will be use my **Coding Encyclopedia** 
